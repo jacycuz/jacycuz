@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @jacycuz
+- 👀 I’m interested in ...estou aqui para aprende mais sobre programação.
+- 🌱 I’m currently learning ... procurando a fazer amizade com pessoas que vão me ajudar enriquecer o meu conhecimento na área de programação.
+- 💞️ I’m looking to collaborate on ...estou aqui para somar e ajuda também no que for no alcance e no que for possível.
+- 📫 How to reach me ... agradeço a oportunidade de fazer parte dessa comunidade.
+
+<!---
+jacycuz/jacycuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
